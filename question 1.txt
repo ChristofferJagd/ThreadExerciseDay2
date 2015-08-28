@@ -1,0 +1,3 @@
+Når man kører de 3 threads parallelt tager det længere tid end sekventielt, da den parallele skifter fra tråd til tråd
+og springer i rækkefølgen, hvorimod den sekventielle metode kører dem igenem skridt for skridt og derved bliver trådene
+hurtigere færdige
